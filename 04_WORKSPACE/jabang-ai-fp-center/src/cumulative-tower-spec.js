@@ -1,0 +1,1 @@
+window.JABANG_CUMULATIVE_TOWER_SPEC={mode:'approved',rule:'stacked_amount_only',layout:'tower_window_and_legend_separated',compare:['customer_cancer_total','standard_cancer_total'],buttons:['cancer','brain','heart','next','reset'],note:'Tower segments show only amount. Coverage names are rendered in a separate legend panel.'};
